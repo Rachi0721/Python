@@ -1,0 +1,7 @@
+r = list(map(int,input( ).split( )))
+s = r.count(10)
+print(s)
+v = r.count(20)
+print(v)
+d = r.count(30)
+print(d)
